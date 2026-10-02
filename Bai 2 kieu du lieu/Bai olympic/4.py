@@ -1,0 +1,5 @@
+u, d, n = input().split()
+u = int(u)
+d = int(d)
+n = int(n)
+print(n*u+d*n*n(n-1)//2)
